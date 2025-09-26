@@ -1,0 +1,21 @@
+{
+  "name": "eleventy-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:sass": "sass css/main.scss _site/css/main.css",
+    "eleventy": "npx @11ty/eleventy",
+    "start": "npm-run-all --parallel \"build:sass -- --watch\" \"eleventy --serve\"",
+    "build": "npm-run-all \"build:sass\" \"eleventy\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.93.2"
+  }
+}

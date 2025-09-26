@@ -1,0 +1,11 @@
+{% macro resourceCard(resource) %}
+<div class="card">
+    <h3><a href="{{ resource.url }}">{{ resource.data.title }}</a></h3>
+    <p class="summary">{{ resource.data.summary }}</p>
+    <div class="tags">
+        {% for tag in resource.data.tags %}
+            <span class="tag">{{ tag }}</span>
+        {% endfor %}
+    </div>
+</div>
+{% endmacro %}

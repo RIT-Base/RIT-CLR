@@ -15,23 +15,23 @@ git clone https://github.com/RIT-Base/RIT-CLR.git
 
 Move directory to this file:
 ```bash
-cd [project-directory]`
+cd [project-directory]
 ```
 
 Install dependencies:
 ```bash
-npm install`
+npm install
 ```
 
 Split 2 Terminal,
 Run eleventy:
 ```bash
-npx eleventy --serve`
+npx eleventy --serve
 ```
 
 Run Sass:
 ```bash
-npm run build:sass -- --watch`
+npm run build:sass -- --watch
 ```
 
 ---

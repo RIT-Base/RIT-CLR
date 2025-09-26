@@ -9,20 +9,30 @@ This is Eleventy SSG for RIT 'Learning Resources Dump'.
 - npm
 
 Clone this repo:
-`git clone site url`
+```bash
+git clone https://github.com/RIT-Base/RIT-CLR.git
+```
 
 Move directory to this file:
-`cd CLR`
+```bash
+cd [project-directory]`
+```
 
 Install dependencies:
-`npm install`
+```bash
+npm install`
+```
 
 Split 2 Terminal,
 Run eleventy:
-`npx eleventy --serve`
+```bash
+npx eleventy --serve`
+```
 
 Run Sass:
-`npm run build:sass -- --watch`
+```bash
+npm run build:sass -- --watch`
+```
 
 ---
 

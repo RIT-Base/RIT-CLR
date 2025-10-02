@@ -1,38 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title or "My Eleventy Wiki" }}</title>
-    <link rel="stylesheet" href="/css/main.css">
+    {% include "partials/head.njk" %}
 </head>
 <body>
+    {% include "partials/header.njk" %}
 
-    <header class="site-header">
-        <h1><a href="/">Curated Learning Resources</a></h1>
-    </header>
+    <main>
+        {{ content | safe }}
+    </main>
 
-    <div class="wiki-grid">
-
-        <aside class="nav-sidebar">
-            <nav>
-                {% include "partials/nav.njk" %}
-            </nav>
-        </aside>
-
-        <main class="wiki-content">
-            <h1 class="page-title">{{ title }}</h1>
-            
-            {{ content | safe }}
-        </main>
-
-        <aside class="toc-minibar">
-            <h2>On This Page</h2>
-            
-            {{ content | toc | safe }} 
-
-        </aside>
-    </div>
-
+    {% include "partials/footer.njk" %}
 </body>
 </html>

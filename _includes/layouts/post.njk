@@ -1,0 +1,49 @@
+---
+layout: "layouts/base.njk"
+---
+
+<div class="container">
+    <article class="post-layout">
+        <div class="post-main">
+            <nav class="breadcrumb">
+                <a href="/">Home</a> > <a href="/topik/">Topik</a> > <a href="/kategori/{{ category | slugify }}/">{{ category }}</a> > {{ title }}
+            </nav>
+            <h1>{{ title }}</h1>
+            
+            {{ content | safe }}
+        </div>
+        
+        <aside class="post-sidebar">
+            <div class="metadata-box">
+                <h4>Detail Resource</h4>
+                <ul>
+                    <li><strong>Tipe:</strong> {{ type }}</li>
+                    <li><strong>Tingkat:</strong> {{ level }}</li>
+                    <li><strong>Kontributor:</strong> {{ contributor }}</li>
+                </ul>
+
+                {% if tags %}
+                <h4>Tags</h4>
+                <div class="tags-list">
+                    {% for tag in tags %}
+                        <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+
+                <a href="{{ external_url }}" class="button-primary" target="_blank" rel="noopener noreferrer">
+                Kunjungi Sumber Belajar
+            </a>
+            </div>
+
+            {% if mission %}
+            <div class="mission-box">
+                <h4>Misi Terkait</h4>
+                {# Anda bisa membuat ini lebih dinamis jika mau #}
+                <p>Pelajari resource ini untuk menyelesaikan misi "{{ mtitle }}" di Guild Board!</p>
+                <a href="{{ mlink }}">Lihat Misi &rarr;</a>
+            </div>
+            {% endif %}
+        </aside>
+    </article>
+</div>

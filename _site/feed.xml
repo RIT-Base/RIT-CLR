@@ -1,17 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-07T20:23:51+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/10/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-10-07T20:23:26+07:00</published><updated>2025-10-07T20:23:26+07:00</updated><id>http://localhost:4000/jekyll/update/2025/10/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/10/07/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-12T13:01:05+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">RIT CLR</title><subtitle>RIT CLR - Curated Learning Resource.  Kumpulan sumber belajar teknologi pilihan yang telah diverifikasi oleh Republic of Information Technology.  Temukan materi sesuai dengan minatmu.</subtitle><author><name>Republic of Information Technology</name></author><entry><title type="html">Post Panduan</title><link href="http://localhost:4000/misc/template/" rel="alternate" type="text/html" title="Post Panduan" /><published>2025-10-12T00:00:00+07:00</published><updated>2025-10-12T00:00:00+07:00</updated><id>http://localhost:4000/misc/template</id><content type="html" xml:base="http://localhost:4000/misc/template/"><![CDATA[<h1 id="ini-heading-1">Ini Heading 1</h1>
+<p>Teks paragraf standar.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<h2 id="ini-heading-2">Ini Heading 2</h2>
+<p>Sub-judul. Teks di bawahnya bisa menjelaskan lebih detail. 
+<strong>teks tebal</strong> atau <a href="#">tautan biasa seperti ini</a>.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<h3 id="ini-heading-3">Ini Heading 3</h3>
+<p>Dan seterusnya untuk level heading yang lebih rendah.</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<h2 id="kutipan-quote">Kutipan (Quote)</h2>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<blockquote>
+  <p>Dan ini adalah tampilan dari sebuah kutipan.</p>
+</blockquote>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+<p>Anda juga bisa menambahkan sumber kutipan dengan tag <code class="language-plaintext highlighter-rouge">&lt;cite&gt;</code>:</p>
+<blockquote>
+  <p>The curtain of night, the lark of morning, the end… of a rotten dream. Devour the twilight ── “The Eyes of Dreams that Fall in the Distance”
+<cite><a href="https://fategrandorder.fandom.com/wiki/Sub:Oberon/Dialogue">Oberon Vortigern</a></cite></p>
+</blockquote>
+
+<h2 id="cuplikan-kode-code-snippet">Cuplikan Kode (Code Snippet)</h2>
+
+<p>Jekyll mendukung cuplikan kode dengan <em>syntax highlighting</em>.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
   <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
 <span class="k">end</span>
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span>
+</code></pre></div></div>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<h2 id="notifikasi-notice">Notifikasi (Notice)</h2>
+<p>Notifikasi digunakan untuk menyorot informasi penting. Anda bisa menambahkannya setelah paragraf.</p>
+
+<p class="notice"><strong>Notifikasi Standar:</strong> Ini notifikasi standar</p>
+
+<p class="notice--primary"><strong>Notifikasi Primer:</strong> Ini adalah notifikasi penting dengan gaya primer.</p>
+
+<p class="notice--info"><strong>Notifikasi Info:</strong> Gunakan ini untuk memberikan informasi tambahan.</p>
+
+<p class="notice--warning"><strong>Notifikasi Peringatan:</strong> Cocok untuk hal-hal yang perlu diwaspadai.</p>
+
+<p class="notice--danger"><strong>Notifikasi Bahaya:</strong> Untuk pesan yang sangat penting atau berbahaya.</p>
+
+<p class="notice--success"><strong>Notifikasi Sukses:</strong> Ketika sebuah aksi berhasil dilakukan.</p>
+
+<h2 id="format-post-khusus">Format Post Khusus</h2>
+
+<h3 id="post-tautan-link-post">Post Tautan (Link Post)</h3>
+<p>Untuk membuat seluruh judul post mengarah ke URL eksternal, tambahkan <code class="language-plaintext highlighter-rouge">link: https://link-yang-mau-dipakai</code> pada bagian YAML Front Matter di atas.</p>
+
+<h3 id="post-dengan-tanggal-modifikasi">Post dengan Tanggal Modifikasi</h3>
+<p>Untuk menampilkan kapan terakhir kali post diubah, tambahkan <code class="language-plaintext highlighter-rouge">last_modified_at: YYYY-MM-DDTHH:MM:SS-ZZ:ZZ</code> pada Front Matter.</p>
+
+<h3 id="pemisah-kutipan-manual-manual-excerpt">Pemisah Kutipan Manual (Manual Excerpt)</h3>
+<p>Untuk mengontrol teks ringkasan yang tampil di halaman utama, letakkan `` di mana Anda ingin memotongnya, dan tambahkan <code class="language-plaintext highlighter-rouge">excerpt_separator: ""</code> pada Front Matter.</p>]]></content><author><name>Republic of Information Technology</name></author><category term="Misc" /><category term="Artikel" /><category term="Pemula" /><summary type="html"><![CDATA[Post template untuk melihat tampilan web dari markdown ke html.]]></summary></entry></feed>

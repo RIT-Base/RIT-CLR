@@ -1,0 +1,11 @@
+main:
+  - title: "Materi"
+    url: /posts/
+  - title: "Kategori"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
+  - title: "Tentang Kami"
+    url: /about/
+  - title: "Kontribusi"
+    url: /contribute/

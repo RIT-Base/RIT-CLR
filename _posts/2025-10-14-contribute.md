@@ -24,7 +24,7 @@ excerpt: "Sebuah artikel interaktif yang menjelaskan konsep dasar hingga mahir d
 ---
 
 ## Deskripsi Lengkap
-Artikel ini adalah salah satu cara terbaik untuk memahami CSS Flexbox karena menggunakan pendekatan visual. Setiap properti dijelaskan dengan contoh interaktif yang memungkinkan pembaca untuk mencoba dan melihat hasilnya secara langsung. Sangat direkomendasikan untuk siapa saja yang masih kesulitan memahami layout di CSS.
+Post ini adalah template untuk kontribusi. Kontribusi harus mengikuti template ini dalam pengisiannya.
 
 ## Tautan Sumber Belajar
 **[Akses Materi di Sini](https://contoh-url-sumber-belajar.com)**

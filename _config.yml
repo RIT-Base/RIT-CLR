@@ -117,3 +117,6 @@ tag_archive:
   path: /tags/
 
 logo: "https://avatars.githubusercontent.com/u/202061261?s=400&u=80f9d7669e799d3be3a78575889b4ef55a7ce77b&v=4"
+
+atom_feed:
+  hide: true

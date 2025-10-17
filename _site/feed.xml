@@ -1,8 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-15T18:15:41+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">RIT CLR</title><subtitle>RIT CLR - Curated Learning Resource.  Kumpulan sumber belajar teknologi pilihan yang telah diverifikasi oleh Republic of Information Technology.  Temukan materi sesuai dengan minatmu.</subtitle><author><name>Republic of Information Technology</name></author><entry><title type="html">Template Kontribusi</title><link href="http://localhost:4000/misc/contribute/" rel="alternate" type="text/html" title="Template Kontribusi" /><published>2025-10-14T00:00:00+07:00</published><updated>2025-10-14T00:00:00+07:00</updated><id>http://localhost:4000/misc/contribute</id><content type="html" xml:base="http://localhost:4000/misc/contribute/"><![CDATA[<h2 id="deskripsi-lengkap">Deskripsi Lengkap</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-17T12:57:51+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">RIT CLR</title><subtitle>RIT CLR - Curated Learning Resource.  Kumpulan sumber belajar teknologi pilihan yang telah diverifikasi oleh Republic of Information Technology.  Temukan materi sesuai dengan minatmu.</subtitle><author><name>Republic of Information Technology</name></author><entry><title type="html">Belajar Logika Pemrograman Dasar : GDQuest</title><link href="http://localhost:4000/basic%20computer/gdquest/" rel="alternate" type="text/html" title="Belajar Logika Pemrograman Dasar : GDQuest" /><published>2025-10-17T00:00:00+07:00</published><updated>2025-10-17T00:00:00+07:00</updated><id>http://localhost:4000/basic%20computer/gdquest</id><content type="html" xml:base="http://localhost:4000/basic%20computer/gdquest/"><![CDATA[<h2 id="deskripsi-lengkap">Deskripsi Lengkap</h2>
 <p>Post ini adalah template untuk kontribusi. Kontribusi harus mengikuti template ini dalam pengisiannya.</p>
 
 <h2 id="tautan-sumber-belajar">Tautan Sumber Belajar</h2>
-<p><strong><a href="https://contoh-url-sumber-belajar.com">Akses Materi di Sini</a></strong></p>
+<p><a href="https://gdquest.github.io/learn-gdscript/" class="btn btn--primary">Buka Sumber Belajar</a><br />
+Jika tombol tidak berfungsi, salin tautan mentah berikut ke browser Anda:
+<code class="language-plaintext highlighter-rouge">https://gdquest.github.io/learn-gdscript/</code></p>
+
+<h2 id="poin-penting-opsional">Poin Penting (Opsional)</h2>
+<ul>
+  <li><strong>Estimasi Waktu:</strong> 30 menit - 2 Jam</li>
+  <li><strong>Prasyarat:</strong> Bisa pake komputer (bisa bukan jago)</li>
+  <li><strong>Kelebihan:</strong> Visual interaktif, step by step kodenya bakal langsung kebayang. Materinya juga sederhana</li>
+  <li><strong>Kekurangan:</strong> Harus dibuka di PC atau Laptop agar stabil, materinya berbahasa inggris, dan butuh internet karena website</li>
+</ul>]]></content><author><name>Republic of Information Technology</name></author><category term="Basic Computer" /><category term="Kursus" /><category term="Pemula" /><summary type="html"><![CDATA[GDQuest adalah kursus singkat untuk mempelajari GDScript yang dipakai oleh Godot Game Engine. Karena GDScript penulisannya sederhana seperti Python (Lebih berfokus pada logika), website ini recommended untuk mempelajari logika pemrograman.]]></summary></entry><entry><title type="html">Template Kontribusi</title><link href="http://localhost:4000/misc/contribute/" rel="alternate" type="text/html" title="Template Kontribusi" /><published>2025-10-14T00:00:00+07:00</published><updated>2025-10-14T00:00:00+07:00</updated><id>http://localhost:4000/misc/contribute</id><content type="html" xml:base="http://localhost:4000/misc/contribute/"><![CDATA[<h2 id="deskripsi-lengkap">Deskripsi Lengkap</h2>
+<p>Post ini adalah template untuk kontribusi. Kontribusi harus mengikuti template ini dalam pengisiannya.</p>
+
+<h2 id="tautan-sumber-belajar">Tautan Sumber Belajar</h2>
+<p><a href="https://contoh-url-sumber-belajar.com" class="btn btn--primary">Buka Sumber Belajar</a><br />
+Jika tombol tidak berfungsi, salin tautan mentah berikut ke browser Anda:
+<code class="language-plaintext highlighter-rouge">https://contoh-url-sumber-belajar.com</code></p>
 
 <h2 id="poin-penting-opsional">Poin Penting (Opsional)</h2>
 <ul>

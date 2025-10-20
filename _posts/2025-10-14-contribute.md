@@ -9,7 +9,7 @@ contributor: "Nama Anda"
 
 # --- [PILIH SALAH SATU] ---
 # Pilih HANYA SATU kategori utama yang paling sesuai.
-# Pilihan: Web Development, Game Development, Internet of Things, Cyber Security
+# Pilihan: Web Development, Game Development, Internet of Things, Cyber Security (dan lain-lain)
 categories:
   - Misc
 
@@ -39,3 +39,4 @@ Jika tombol tidak berfungsi, salin tautan mentah berikut ke browser Anda:
 * **Estimasi Waktu:** 1 - 2 Jam
 * **Prasyarat:** Pengetahuan dasar HTML dan CSS.
 * **Kelebihan:** Interaktif dan visual.
+* **Kekurangan:** Apa tuh

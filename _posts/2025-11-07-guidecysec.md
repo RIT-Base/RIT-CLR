@@ -39,25 +39,23 @@ pribadi belum menemukan referensi.
 Post ini bisa dibilang 'direct fork' dari server resource CySec RIT.
 
 ## Tautan Sumber Belajar
+--Starter Material--\
+[TryHackMe Pre-Security](https://tryhackme.com/path/outline/presecurity)\
+[TryHackMe Free Path](https://tryhackme.com/resources/blog/free_path)\
+This cover some of the basics, and it’s good enough.\
 
-[Buka Sumber Belajar](https://contoh-url-sumber-belajar.com){: .btn .btn--primary}\
---Starter Material--
-[TryHackMe Pre-Security](https://tryhackme.com/path/outline/presecurity)
-[TryHackMe Free Path](https://tryhackme.com/resources/blog/free_path)
-This cover some of the basics, and it’s good enough.
+--Lebih Lengkap--\
+[Cisco Introduction to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US)\
+[Cisco Junior Cybersecurity Analyst](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)\
+dan lain-lain.\
 
---Lebih Lengkap--
-[Cisco Introduction to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US)
-[Cisco Junior Cybersecurity Analyst](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)
-dan lain-lain.
-
---Challenge Platform--
-[HackTheBox](https://hackthebox.com)
-[TryHackMe](https://tryhackme.com)
-[CTFTime](https://ctftime.org)
-[Root-Me](httpsL//root-me.org)
-[Crackmes.one](https://crackmes.one)
-[CyberDefenders](https://cyberdefenders.org)
+--Challenge Platform--\
+[HackTheBox](https://hackthebox.com)\
+[TryHackMe](https://tryhackme.com)\
+[CTFTime](https://ctftime.org)\
+[Root-Me](httpsL//root-me.org)\
+[Crackmes.one](https://crackmes.one)\
+[CyberDefenders](https://cyberdefenders.org)\
 
 dan yang pasti
 
